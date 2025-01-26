@@ -6,7 +6,7 @@ A simple and user-friendly To-Do web application built using HTML, CSS, and Java
 ## Features
 - Add new tasks
 - Delete existing tasks
-- Mark tasks as completed
+- Edit tasks
 - Responsive design
 
 ## Technologies Used
